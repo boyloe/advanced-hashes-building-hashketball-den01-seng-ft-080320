@@ -36,6 +36,5 @@ game_hash = {
       }
     ]
   }  
-  
-}
+
 end
